@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map For DIYables_IRcontroller
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DIYables_IRcontroller	KEYWORD1
+DIYables_IRcontroller_17	KEYWORD1
+DIYables_IRcontroller_21	KEYWORD1
+Key17	KEYWORD1
+Key21	KEYWORD1
+irController	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getKey	KEYWORD2
+loop	KEYWORD2
+begin	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NONE	LITERAL1
+KEY_CH_MINUS	LITERAL1
+KEY_CH	LITERAL1
+KEY_CH_PLUS	LITERAL1
+KEY_PREV	LITERAL1
+KEY_NEXT	LITERAL1
+KEY_PLAY_PAUSE	LITERAL1
+KEY_VOL_MINUS	LITERAL1
+KEY_VOL_PLUS	LITERAL1
+KEY_EQ	LITERAL1
+KEY_100_PLUS	LITERAL1
+KEY_200_PLUS	LITERAL1
+KEY_0	LITERAL1
+KEY_1	LITERAL1
+KEY_2	LITERAL1
+KEY_3	LITERAL1
+KEY_4	LITERAL1
+KEY_5	LITERAL1
+KEY_6	LITERAL1
+KEY_7	LITERAL1
+KEY_8	LITERAL1
+KEY_9	LITERAL1
+UNKNOWN	LITERAL1
+KEY_STAR	LITERAL1
+KEY_SHARP	LITERAL1
+KEY_UP	LITERAL1
+KEY_LEFT	LITERAL1
+KEY_OK	LITERAL1
+KEY_RIGHT	LITERAL1
+KEY_DOWN	LITERAL1
+
