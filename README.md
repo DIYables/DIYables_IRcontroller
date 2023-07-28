@@ -93,3 +93,4 @@ Tutorials
 * [ESP32 - DIYables IR Remote Controller](https://esp32io.com/tutorials/esp32-ir-remote-control)
 * [ESP8266 - DIYables IR Remote Controller](https://newbiely.com/tutorials/esp8266/esp8266-ir-remote-control)
 
+**DIYables invests time and resources providing this open source code, please support DIYables hardware by [purchasing products from DIYables](https://diyables.io/)!**
